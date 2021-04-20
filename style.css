@@ -1,0 +1,16 @@
+.hebergements {
+	width: 70%;
+    height: 250px ;
+    border: solid 1px #0065FC;
+}
+
+.lesPlusPopulaires {
+	width: 25%;
+    height: 250px ;
+    border: solid 1px #0065FC;
+}
+
+.conteneur {
+    display:flex ;
+    justify-content:space-around ;
+}
